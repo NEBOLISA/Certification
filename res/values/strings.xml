@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Certification</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="frag_text">We’re going to change TopFragment’s layout so that it contains
+scrollable content. We’ll add an image of one of the Bits and Pizzas
+restaurants, along with some text describing the company ethos.
+Here’s what the new version of
+TopFragment
+will look like:
+        We’re going to change TopFragment’s layout so that it contains
+scrollable content. We’ll add an image of one of the Bits and Pizzas
+restaurants, along with some text describing the company ethos.
+Here’s what the new version of
+TopFragment
+will look like:
+
+</string>
+</resources>

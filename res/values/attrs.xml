@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClearEditText">
+        <attr name="backgroundColor" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="EditTextView">
+        <attr name="custom_shape" format="enum">
+            <enum name="circle" value="0"/>
+            <enum name="square" value="1"/>
+        </attr>
+        <attr name="dimensionVal" format="dimension">
+
+        </attr>
+    <attr name="shape_color" format="color"></attr>
+    </declare-styleable>
+</resources>
